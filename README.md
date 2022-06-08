@@ -1,3 +1,3 @@
-# Calculator
+# [Calculator](https://quachck.github.io/Calculator/)
 
-Calculator project
+Simple calculator.
